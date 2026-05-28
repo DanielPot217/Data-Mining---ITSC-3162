@@ -10,3 +10,7 @@ Repository for Homework Assignments for Data Mining Course
 ## Lab 2
 
 - Lab 2: https://colab.research.google.com/github/DanielPot217/Data-Mining---ITSC-3162/blob/main/Labs/Lab%202.ipynb
+
+## Lab 3
+
+- Lab 3: https://colab.research.google.com/github/DanielPot217/Data-Mining---ITSC-3162/blob/main/Labs/Lab%203.ipynb
